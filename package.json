@@ -1,0 +1,33 @@
+{
+  "name": "simple-typescript-starter",
+  "version": "1.0.0",
+  "description": "A super simple starter template for TypeScript with webpack and Sass",
+  "scripts": {
+    "serve": "webpack-dev-server --mode development --open",
+    "build": "webpack-cli --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samculver/Simple-TypeScript-Starter.git"
+  },
+  "keywords": [
+    "typescript",
+    "starter",
+    "webpack",
+    "sass"
+  ],
+  "author": "Sam Culver",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "mini-css-extract-plugin": "^0.4.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.2",
+    "style-loader": "^0.21.0",
+    "ts-loader": "^4.3.1",
+    "typescript": "^2.9.1",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
