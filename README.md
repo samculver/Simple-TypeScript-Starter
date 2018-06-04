@@ -1,2 +1,13 @@
 # Simple-TypeScript-Starter
-A very simple node.js project for TypeScript with webpack
+
+Includes:
+
+- TypeScript
+- Webpack
+- Sass Compiler
+- Dev Server
+
+Commands:
+
+npm run build
+npm run serve
