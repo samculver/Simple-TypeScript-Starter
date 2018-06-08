@@ -1,4 +1,4 @@
-# Simple-TypeScript-Starter
+# Simple TypeScript Starter
 
 Includes:
 
